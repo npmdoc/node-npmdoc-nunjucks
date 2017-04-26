@@ -1,6 +1,6 @@
 # npmdoc-nunjucks
 
-#### api documentation for  [nunjucks (v3.0.0)](https://github.com/mozilla/nunjucks#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-nunjucks.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-nunjucks) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-nunjucks.svg)](https://travis-ci.org/npmdoc/node-npmdoc-nunjucks)
+#### basic api documentation for  [nunjucks (v3.0.0)](https://github.com/mozilla/nunjucks#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-nunjucks.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-nunjucks) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-nunjucks.svg)](https://travis-ci.org/npmdoc/node-npmdoc-nunjucks)
 
 #### A powerful templating engine with inheritance, asynchronous control, and more (jinja2 inspired)
 
