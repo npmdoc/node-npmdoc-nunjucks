@@ -27,7 +27,7 @@
 <tspan x="10" y="394">  │ │   │ └── is-posix-bracket@0.1.1 </tspan>
 <tspan x="10" y="410">  │ │   ├── extglob@0.3.2 </tspan>
 <tspan x="10" y="426">  │ │   ├── filename-regex@2.0.0 </tspan>
-<tspan x="10" y="442">  │ │   ├─┬ kind-of@3.1.0 </tspan>
+<tspan x="10" y="442">  │ │   ├─┬ kind-of@3.2.0 </tspan>
 <tspan x="10" y="458">  │ │   │ └── is-buffer@1.1.5 </tspan>
 <tspan x="10" y="474">  │ │   ├─┬ normalize-path@2.1.1 </tspan>
 <tspan x="10" y="490">  │ │   │ └── remove-trailing-separator@1.0.1 </tspan>
